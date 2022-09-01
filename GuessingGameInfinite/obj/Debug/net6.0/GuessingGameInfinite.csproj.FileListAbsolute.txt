@@ -1,0 +1,15 @@
+C:\Users\oleks\source\repos\loops and random numbers  2\GuessingGameInfinite\bin\Debug\net6.0\GuessingGameInfinite.exe
+C:\Users\oleks\source\repos\loops and random numbers  2\GuessingGameInfinite\bin\Debug\net6.0\GuessingGameInfinite.deps.json
+C:\Users\oleks\source\repos\loops and random numbers  2\GuessingGameInfinite\bin\Debug\net6.0\GuessingGameInfinite.runtimeconfig.json
+C:\Users\oleks\source\repos\loops and random numbers  2\GuessingGameInfinite\bin\Debug\net6.0\GuessingGameInfinite.dll
+C:\Users\oleks\source\repos\loops and random numbers  2\GuessingGameInfinite\bin\Debug\net6.0\ref\GuessingGameInfinite.dll
+C:\Users\oleks\source\repos\loops and random numbers  2\GuessingGameInfinite\bin\Debug\net6.0\GuessingGameInfinite.pdb
+C:\Users\oleks\source\repos\loops and random numbers  2\GuessingGameInfinite\obj\Debug\net6.0\GuessingGameInfinite.csproj.AssemblyReference.cache
+C:\Users\oleks\source\repos\loops and random numbers  2\GuessingGameInfinite\obj\Debug\net6.0\GuessingGameInfinite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\source\repos\loops and random numbers  2\GuessingGameInfinite\obj\Debug\net6.0\GuessingGameInfinite.AssemblyInfoInputs.cache
+C:\Users\oleks\source\repos\loops and random numbers  2\GuessingGameInfinite\obj\Debug\net6.0\GuessingGameInfinite.AssemblyInfo.cs
+C:\Users\oleks\source\repos\loops and random numbers  2\GuessingGameInfinite\obj\Debug\net6.0\GuessingGameInfinite.csproj.CoreCompileInputs.cache
+C:\Users\oleks\source\repos\loops and random numbers  2\GuessingGameInfinite\obj\Debug\net6.0\GuessingGameInfinite.dll
+C:\Users\oleks\source\repos\loops and random numbers  2\GuessingGameInfinite\obj\Debug\net6.0\ref\GuessingGameInfinite.dll
+C:\Users\oleks\source\repos\loops and random numbers  2\GuessingGameInfinite\obj\Debug\net6.0\GuessingGameInfinite.pdb
+C:\Users\oleks\source\repos\loops and random numbers  2\GuessingGameInfinite\obj\Debug\net6.0\GuessingGameInfinite.genruntimeconfig.cache

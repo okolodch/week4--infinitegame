@@ -1,0 +1,14 @@
+C:\Users\oleks\source\repos\loops and random numbers  2\GuessingGameThreeTries\bin\Debug\net6.0\GuessingGameThreeTries.exe
+C:\Users\oleks\source\repos\loops and random numbers  2\GuessingGameThreeTries\bin\Debug\net6.0\GuessingGameThreeTries.deps.json
+C:\Users\oleks\source\repos\loops and random numbers  2\GuessingGameThreeTries\bin\Debug\net6.0\GuessingGameThreeTries.runtimeconfig.json
+C:\Users\oleks\source\repos\loops and random numbers  2\GuessingGameThreeTries\bin\Debug\net6.0\GuessingGameThreeTries.dll
+C:\Users\oleks\source\repos\loops and random numbers  2\GuessingGameThreeTries\bin\Debug\net6.0\ref\GuessingGameThreeTries.dll
+C:\Users\oleks\source\repos\loops and random numbers  2\GuessingGameThreeTries\bin\Debug\net6.0\GuessingGameThreeTries.pdb
+C:\Users\oleks\source\repos\loops and random numbers  2\GuessingGameThreeTries\obj\Debug\net6.0\GuessingGameThreeTries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\source\repos\loops and random numbers  2\GuessingGameThreeTries\obj\Debug\net6.0\GuessingGameThreeTries.AssemblyInfoInputs.cache
+C:\Users\oleks\source\repos\loops and random numbers  2\GuessingGameThreeTries\obj\Debug\net6.0\GuessingGameThreeTries.AssemblyInfo.cs
+C:\Users\oleks\source\repos\loops and random numbers  2\GuessingGameThreeTries\obj\Debug\net6.0\GuessingGameThreeTries.csproj.CoreCompileInputs.cache
+C:\Users\oleks\source\repos\loops and random numbers  2\GuessingGameThreeTries\obj\Debug\net6.0\GuessingGameThreeTries.dll
+C:\Users\oleks\source\repos\loops and random numbers  2\GuessingGameThreeTries\obj\Debug\net6.0\ref\GuessingGameThreeTries.dll
+C:\Users\oleks\source\repos\loops and random numbers  2\GuessingGameThreeTries\obj\Debug\net6.0\GuessingGameThreeTries.pdb
+C:\Users\oleks\source\repos\loops and random numbers  2\GuessingGameThreeTries\obj\Debug\net6.0\GuessingGameThreeTries.genruntimeconfig.cache

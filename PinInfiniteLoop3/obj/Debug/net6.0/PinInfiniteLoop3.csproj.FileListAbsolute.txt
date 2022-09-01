@@ -1,0 +1,15 @@
+C:\Users\oleks\source\repos\loops and random numbers  2\PinInfiniteLoop3\bin\Debug\net6.0\PinInfiniteLoop3.exe
+C:\Users\oleks\source\repos\loops and random numbers  2\PinInfiniteLoop3\bin\Debug\net6.0\PinInfiniteLoop3.deps.json
+C:\Users\oleks\source\repos\loops and random numbers  2\PinInfiniteLoop3\bin\Debug\net6.0\PinInfiniteLoop3.runtimeconfig.json
+C:\Users\oleks\source\repos\loops and random numbers  2\PinInfiniteLoop3\bin\Debug\net6.0\PinInfiniteLoop3.dll
+C:\Users\oleks\source\repos\loops and random numbers  2\PinInfiniteLoop3\bin\Debug\net6.0\ref\PinInfiniteLoop3.dll
+C:\Users\oleks\source\repos\loops and random numbers  2\PinInfiniteLoop3\bin\Debug\net6.0\PinInfiniteLoop3.pdb
+C:\Users\oleks\source\repos\loops and random numbers  2\PinInfiniteLoop3\obj\Debug\net6.0\PinInfiniteLoop3.csproj.AssemblyReference.cache
+C:\Users\oleks\source\repos\loops and random numbers  2\PinInfiniteLoop3\obj\Debug\net6.0\PinInfiniteLoop3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\source\repos\loops and random numbers  2\PinInfiniteLoop3\obj\Debug\net6.0\PinInfiniteLoop3.AssemblyInfoInputs.cache
+C:\Users\oleks\source\repos\loops and random numbers  2\PinInfiniteLoop3\obj\Debug\net6.0\PinInfiniteLoop3.AssemblyInfo.cs
+C:\Users\oleks\source\repos\loops and random numbers  2\PinInfiniteLoop3\obj\Debug\net6.0\PinInfiniteLoop3.csproj.CoreCompileInputs.cache
+C:\Users\oleks\source\repos\loops and random numbers  2\PinInfiniteLoop3\obj\Debug\net6.0\PinInfiniteLoop3.dll
+C:\Users\oleks\source\repos\loops and random numbers  2\PinInfiniteLoop3\obj\Debug\net6.0\ref\PinInfiniteLoop3.dll
+C:\Users\oleks\source\repos\loops and random numbers  2\PinInfiniteLoop3\obj\Debug\net6.0\PinInfiniteLoop3.pdb
+C:\Users\oleks\source\repos\loops and random numbers  2\PinInfiniteLoop3\obj\Debug\net6.0\PinInfiniteLoop3.genruntimeconfig.cache

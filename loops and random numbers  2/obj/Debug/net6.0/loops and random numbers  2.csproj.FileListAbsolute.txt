@@ -1,0 +1,15 @@
+C:\Users\oleks\source\repos\loops and random numbers  2\loops and random numbers  2\obj\Debug\net6.0\loops and random numbers  2.csproj.AssemblyReference.cache
+C:\Users\oleks\source\repos\loops and random numbers  2\loops and random numbers  2\obj\Debug\net6.0\loops and random numbers  2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\source\repos\loops and random numbers  2\loops and random numbers  2\obj\Debug\net6.0\loops and random numbers  2.AssemblyInfoInputs.cache
+C:\Users\oleks\source\repos\loops and random numbers  2\loops and random numbers  2\obj\Debug\net6.0\loops and random numbers  2.AssemblyInfo.cs
+C:\Users\oleks\source\repos\loops and random numbers  2\loops and random numbers  2\obj\Debug\net6.0\loops and random numbers  2.csproj.CoreCompileInputs.cache
+C:\Users\oleks\source\repos\loops and random numbers  2\loops and random numbers  2\bin\Debug\net6.0\loops and random numbers  2.exe
+C:\Users\oleks\source\repos\loops and random numbers  2\loops and random numbers  2\bin\Debug\net6.0\loops and random numbers  2.deps.json
+C:\Users\oleks\source\repos\loops and random numbers  2\loops and random numbers  2\bin\Debug\net6.0\loops and random numbers  2.runtimeconfig.json
+C:\Users\oleks\source\repos\loops and random numbers  2\loops and random numbers  2\bin\Debug\net6.0\loops and random numbers  2.dll
+C:\Users\oleks\source\repos\loops and random numbers  2\loops and random numbers  2\bin\Debug\net6.0\ref\loops and random numbers  2.dll
+C:\Users\oleks\source\repos\loops and random numbers  2\loops and random numbers  2\bin\Debug\net6.0\loops and random numbers  2.pdb
+C:\Users\oleks\source\repos\loops and random numbers  2\loops and random numbers  2\obj\Debug\net6.0\loops and random numbers  2.dll
+C:\Users\oleks\source\repos\loops and random numbers  2\loops and random numbers  2\obj\Debug\net6.0\ref\loops and random numbers  2.dll
+C:\Users\oleks\source\repos\loops and random numbers  2\loops and random numbers  2\obj\Debug\net6.0\loops and random numbers  2.pdb
+C:\Users\oleks\source\repos\loops and random numbers  2\loops and random numbers  2\obj\Debug\net6.0\loops and random numbers  2.genruntimeconfig.cache

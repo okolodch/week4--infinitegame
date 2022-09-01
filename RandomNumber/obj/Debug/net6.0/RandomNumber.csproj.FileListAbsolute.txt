@@ -1,0 +1,15 @@
+C:\Users\oleks\source\repos\loops and random numbers  2\RandomNumber\bin\Debug\net6.0\RandomNumber.exe
+C:\Users\oleks\source\repos\loops and random numbers  2\RandomNumber\bin\Debug\net6.0\RandomNumber.deps.json
+C:\Users\oleks\source\repos\loops and random numbers  2\RandomNumber\bin\Debug\net6.0\RandomNumber.runtimeconfig.json
+C:\Users\oleks\source\repos\loops and random numbers  2\RandomNumber\bin\Debug\net6.0\RandomNumber.dll
+C:\Users\oleks\source\repos\loops and random numbers  2\RandomNumber\bin\Debug\net6.0\ref\RandomNumber.dll
+C:\Users\oleks\source\repos\loops and random numbers  2\RandomNumber\bin\Debug\net6.0\RandomNumber.pdb
+C:\Users\oleks\source\repos\loops and random numbers  2\RandomNumber\obj\Debug\net6.0\RandomNumber.csproj.AssemblyReference.cache
+C:\Users\oleks\source\repos\loops and random numbers  2\RandomNumber\obj\Debug\net6.0\RandomNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\source\repos\loops and random numbers  2\RandomNumber\obj\Debug\net6.0\RandomNumber.AssemblyInfoInputs.cache
+C:\Users\oleks\source\repos\loops and random numbers  2\RandomNumber\obj\Debug\net6.0\RandomNumber.AssemblyInfo.cs
+C:\Users\oleks\source\repos\loops and random numbers  2\RandomNumber\obj\Debug\net6.0\RandomNumber.csproj.CoreCompileInputs.cache
+C:\Users\oleks\source\repos\loops and random numbers  2\RandomNumber\obj\Debug\net6.0\RandomNumber.dll
+C:\Users\oleks\source\repos\loops and random numbers  2\RandomNumber\obj\Debug\net6.0\ref\RandomNumber.dll
+C:\Users\oleks\source\repos\loops and random numbers  2\RandomNumber\obj\Debug\net6.0\RandomNumber.pdb
+C:\Users\oleks\source\repos\loops and random numbers  2\RandomNumber\obj\Debug\net6.0\RandomNumber.genruntimeconfig.cache
